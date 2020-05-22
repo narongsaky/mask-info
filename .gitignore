@@ -114,3 +114,13 @@ dist
 .yarn/unplugged
 .yarn/build-state.yml
 .pnp.*
+
+
+# IDEs and editors
+/.idea
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
